@@ -61,7 +61,7 @@ La solución se organizó en dos niveles:
 1. Un baseline simple, basado en medias historicas por canal y por contexto
 2. Un modelo `Multi-Armed Bandit` contextual, donde cada combinacion `Target_Audience + Campaign_Goal` tiene su propio agente
 
-La lógica sigue la misma idea pedagogica vista en los notebooks de soporte:
+La lógica sigue la misma idea vista en los notebooks de soporte:
 
 - en `sesion5_02_ucb_thompson_publicidad.ipynb` se presenta el problema clasico de elegir entre varios anuncios con recompensa incierta
 - en `sesion5_03_bandits_personalizados.ipynb` se muestra por que conviene tener un agente por usuario o por segmento, en vez de un unico agente para todos
