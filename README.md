@@ -1,4 +1,4 @@
-# Sistema de Recomendacion para Publicidad Digital con Multi-Armed Bandits
+# Sistema de Recomendación para Publicidad Digital con Multi-Armed Bandits
 
 ## Abstract
 
@@ -441,7 +441,7 @@ Para acercar este sistema a un nivel mas cercano al estado del arte, las mejoras
 
 El proyecto actualmente incluye:
 
-- `EDA` y preparacion de datos
+- `EDA` y preparación de datos
 - baseline simple
 - bandit contextual con `Thompson Sampling`
 - comparacion contra agente global
