@@ -1,0 +1,7 @@
+.github/prompt.md
+.github/codex_agent.md
+data/interim/
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
